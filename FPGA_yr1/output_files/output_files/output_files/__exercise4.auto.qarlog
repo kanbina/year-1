@@ -1,0 +1,21 @@
+Quartus Prime Archive log --	C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/__exercise4.auto.qarlog
+
+Archive:	C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/__exercise4.auto.qar
+Date:		Sun Feb 23 13:46:16 2020
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+3bRegister.bsf
+3bitAdder.bsf
+C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/db/exercise4.cbx.xml
+C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/db/exercise4.qpf
+C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/output_files/exercise4.flow.rpt
+C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/output_files/exercise4.map.rpt
+C:/Users/yolan/OneDrive - University College London/ELEC0004/QuartusFPGA/output_files/output_files/output_files/output_files/exercise4.map.summary
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+exercise4.bdf
+exercise4.qsf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

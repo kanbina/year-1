@@ -1,5 +1,0 @@
-|introTest
-A15 <= SW0.DB_MAX_OUTPUT_PORT_TYPE
-SW0 => A15.DATAIN
-
-

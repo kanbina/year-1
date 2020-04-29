@@ -1,0 +1,17 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "A15",
+					"strict" : false
+				},
+				{
+					"name" : "SW0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
